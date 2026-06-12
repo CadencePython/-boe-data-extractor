@@ -31,11 +31,11 @@ This pipeline automates 100% of that extraction. Drop PDFs in a folder, run one 
 
 A standard Indian Customs BOE from ICEGATE — dense, multi-part, and completely unstructured for machine reading:
 
-![BOE Input Sample](https://raw.githubusercontent.com/cadencepoppen/boe-data-extractor/main/screenshots/boe_input_sample.png)
+![BOE Input Sample](https://raw.githubusercontent.com/CadencePython/-boe-data-extractor/main/boe_input_sample.png)
 
 A single BOE can have **multiple line items**, each with its own duties section:
 
-![BOE Multi-Item](https://raw.githubusercontent.com/cadencepoppen/boe-data-extractor/main/screenshots/boe_input_multiitem.png)
+![BOE Multi-Item](https://raw.githubusercontent.com/CadencePython/-boe-data-extractor/main/boe_input_multiitem.png)
 
 ---
 
@@ -43,9 +43,9 @@ A single BOE can have **multiple line items**, each with its own duties section:
 
 Every field extracted, colour-coded by group, one row per line item:
 
-![BOE Output Excel](https://raw.githubusercontent.com/cadencepoppen/boe-data-extractor/main/screenshots/boe_output_excel.png)
+![BOE Output Excel](https://raw.githubusercontent.com/CadencePython/-boe-data-extractor/main/boe_output_excel.png)
 
-See the full sample: [`sample_output/BOE_Extracted_sample.xlsx`](sample_output/BOE_Extracted_sample.xlsx)
+See the full sample: [`BOE_Extracted_sample.xlsx`](BOE_Extracted_sample.xlsx)
 
 ---
 
@@ -81,8 +81,8 @@ See the full sample: [`sample_output/BOE_Extracted_sample.xlsx`](sample_output/B
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/cadencepoppen/boe-data-extractor.git
-cd boe-data-extractor
+git clone https://github.com/CadencePython/-boe-data-extractor.git
+cd -boe-data-extractor
 ```
 
 **2. Install dependencies**
@@ -171,4 +171,4 @@ Simplified, anonymised recreation of automation built and deployed in a producti
 13 years of enterprise data experience in Indian e-commerce. Built and deployed automation pipelines trusted by CFO-level stakeholders.
 
 📧 cadencepoppen@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/cadencepoppen) · [GitHub](https://github.com/cadencepoppen) · [Fiverr](https://fiverr.com)
+🔗 [LinkedIn](https://linkedin.com/in/cadencepoppen) · [GitHub](https://github.com/CadencePython) · [Fiverr](https://www.fiverr.com)
